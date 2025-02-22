@@ -1,0 +1,28 @@
+Integrante: Juan Carlos Negrete Mora
+Correo: jnegrete77@hotmail.com
+
+Plataforma de Gestión de Tareas
+Descripción:
+Una aplicación web donde los usuarios puedan registrarse, iniciar sesión y gestionar tareas personales. Pueden agregar, editar, eliminar y marcar tareas como completadas.
+Tecnologías:
+•	Frontend: HTML, CSS, JavaScript, React.js
+•	Backend: Django + Django REST Framework (API)
+•	Base de datos: SQLite
+•	Autenticación: Django Authentication + JWT
+Pasos para desarrollarlo:
+1.	Configuración del entorno
+o	Crear un entorno virtual en Python.
+o	Configurar un nuevo proyecto Django.
+o	Instalar y configurar Django REST Framework.
+o	Configurar la base de datos.
+2.	Backend con Django
+o	Crear modelos para usuarios y tareas.
+o	Implementar autenticación JWT.
+o	Crear vistas y endpoints para CRUD de tareas.
+3.	Frontend con React
+o	Crear la estructura del proyecto en React.
+o	Diseñar la interfaz con componentes reutilizables.
+o	Integrar la API con fetch o Axios.
+
+
+ 
